@@ -1,3 +1,5 @@
+# **EchoBurst**
+*Finding civilized conversation in a more polarized age*
 
 ## Table of Contents
 * [Welcome](#welcome)
