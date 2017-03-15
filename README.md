@@ -6,7 +6,6 @@
 * [The Problem](#the-problem)
 * [Our Solution](#our-solution)
 * [Why It Matters](#why-it-matters)
-* [To Do List](#to-do-list)
 
 ### Welcome
 Thank you for visiting the EchoBurst repository. This README details the broad goals and objectives of the project, and will be updated as those objectives are met to better reflect the current state of the project.  
@@ -19,13 +18,3 @@ This problem is too large to be solved by any one effort, but we hope to contrib
 
 ### Why It Matters
 In an age where political and scientific discourse can literally reshape the face of the planet, our unwillingness to communicate with those we disagree with has caused views to polarize at an exponential rate, and discussion has broken down. If we isolate ourselves from everyone who disagrees with us, we greatly reduce our collective ability to effect change. It is the thesis of this project that most people generally want the same thing: a better, healthier and safer world. Many times, we simply differ on how we believe this can be accomplished. Even in cases where prejudice and distrust infect our discourse, exposure and interaction between hostile groups often leads to the discovery 
-
-### To Do List
-
-  * Create a list of features we would like to include and decide on priority
-  * Establish which approach to analysis we will take (word2vec and fasttext are current contenders)
-  * Conduct literature reviews of relevant research to determine how best to approach incentivizing use of the extension
-
-
-
-
