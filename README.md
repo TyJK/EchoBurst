@@ -1,0 +1,2 @@
+# EchoBurst
+A browser extension that utilizes sentiment analysis to find and highlight constructive comments on various social media platforms that oppose the users worldview in order to encourage them to break out of the echo chambers the internet has allowed us to construct. Though the mechanism hasn't been established yet, we would also like to add an element of gamification to help people overcome the natural tendency to not read even well crafted positions that they disagree with.
