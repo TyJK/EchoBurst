@@ -18,3 +18,6 @@ This problem is too large to be solved by any one effort, but we hope to contrib
 
 ### Why It Matters
 In an age where political and scientific discourse can literally reshape the face of the planet, our unwillingness to communicate with those we disagree with has caused views to polarize at an exponential rate, and discussion has broken down. If we isolate ourselves from everyone who disagrees with us, we greatly reduce our collective ability to effect change. It is the thesis of this project that most people generally want the same thing: a better, healthier and safer world. Many times, we simply differ on how we believe this can be accomplished. Even in cases where prejudice and distrust infect our discourse, exposure and interaction between hostile groups often leads to the discovery 
+
+## [Gitter Chat Room](https://gitter.im/EchoBurst/Lobby)
+## [Etherpad](https://public.etherpad-mozilla.org/p/EchoBurst)
