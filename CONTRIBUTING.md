@@ -21,3 +21,9 @@ If you have prior expertise or knowledge in the following fields, you might be a
 However, as stated before, these are not prerequisites, simply areas of expertise that are well suited for the present project.
 
 ### How Can I Contribute?
+There are a few main ways to contribute: 
+* Add your perspective to the project by opening an issue or otherwise adding to the discussion.
+* Contribute resources that might be especially useful to the project
+* If you wish to lend your expertise in a greater capacity than commenting on the discussion, feel free to contact us on [Gitter](https://gitter.im/EchoBurst/Lobby)
+* Presentation/pitch material to help generate interest in the project
+* Code. We are still in the preliminary stages and will have code that can be added to or modified shortly
