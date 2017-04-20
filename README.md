@@ -30,4 +30,4 @@ Our stated objectives have been posted in the Roadmap issue, where they can be d
 Roadmap
 
 ### [Wiki](https://github.com/TyJK/EchoBurst/wiki)
-The wiki is where we will post meeting history, as well as resources we think are helpful for the project. We also have a contact information secution, though at present it is just Gitter and Etherpad.
+The wiki is where we will post meeting history, as well as resources we think are helpful for the project. We also have a contact information section, though at present it is just Gitter and Etherpad.
