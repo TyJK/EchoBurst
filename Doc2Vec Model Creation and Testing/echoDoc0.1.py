@@ -11,7 +11,7 @@ from sklearn import svm
 from sklearn.externals import joblib
 from sklearn.cluster import KMeans
 from sklearn.cluster import DBSCAN
-
+from sklearn.decomposition import PCA
 
 
 
