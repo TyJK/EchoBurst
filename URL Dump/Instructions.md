@@ -30,7 +30,7 @@ This is a potentially sensitive project as we're dealing with core beliefs. One 
 
 ### Your Mission (should you choose to accept it):
 
-Search the internet for blogs and websites that focus on a single one of these topics, and evaluate if they hold a consistent, detectable opinion. Once you have assessed that the blog/site stays on topic and does not have a diverse set of perspectives (at least in the main posts), add the site or site section home page URL. Repeat as many times as you are able. 
+Search the internet for blogs and websites that focus on a single one of these topics, and evaluate if they hold a consistent, detectable opinion. Once you have assessed that the blog/site stays on topic and does not have a diverse set of perspectives (at least in the main posts), add the site or site section home page URL. Repeat as many times as you are able. Once you're done, drop your text file off in the URL Dump folder.
 
 Please direct any additional questions to the relevant issue: https://github.com/TyJK/EchoBurst/issues/4
 
