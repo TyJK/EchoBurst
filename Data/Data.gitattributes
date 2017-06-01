@@ -1,2 +1,4 @@
-*.jl
-linguist-language=None
+*.jl linguist-language=None
+*.jl linguist-documentation=None
+*.jl linguist-vendored=None
+*.jl linguist-generated=None
