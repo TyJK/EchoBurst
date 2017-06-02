@@ -1,12 +1,20 @@
 ### File Format: 
-A text document with a list of URL within, with each URL on a separate line. Each file should have only a single topic/sentiment
-eg. within file: ClimateChange - Real.txt
+A csv document with a list of URL within, with each URL on a separate line. Each file should have only a single topic/sentiment
+eg. within file: ClimateChange - Real.csv
 
 http://www.accuweather.com/en/climate-change <br />
 https://www.theguardian.com/environment/blog+science/scienceofclimatechange <br />
 http://www.realclimate.org <br />
 
 etc...
+
+In the next column have the longest common URL, which is to say the URL that all of the articles share. You can do this by selecting a few of the articles, and see which section doesnt change. Some examples:
+
+http://www.climate-skeptic.com/20??/*
+https://theclimatescepticsparty.blogspot.com/20??/*
+
+**Note about Regex** 
+The ?? and * are to sybolize any one character and any series of chracters respectively. These aren't proper regrexes and that's fine, it just helps narrow the search and keep pages that list these pages out of the scrape. These are not necessary, just helpful. They'll be replaced with proper regexes later anyways, so http://www.climate-skeptic.com/20 or https://theclimatescepticsparty.blogspot.com/20 would also be acceptable. 
 
 ### Standardized Tags:
 These are the standard tags we'll be using along with a short description. If you want to do a topic that is not included, let us know within the Identification of Polarized Blog Posts Issue (https://github.com/TyJK/EchoBurst/issues/4 ). Once it's been discussed, you can add your own tag to the list below, however we'd rather have lots of data for a few topics than a bit of data for many topics. 
